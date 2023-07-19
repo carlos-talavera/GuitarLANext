@@ -16,7 +16,7 @@ export const metadata = {
     images: [
       {
         url: 'https://charlie2code.com/wp-content/uploads/2023/07/GuitarLA_Next.png',
-        width: 1350,
+        width: 1310,
         height: 650
       }
     ]
