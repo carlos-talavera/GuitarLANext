@@ -55,7 +55,7 @@ function Header() {
                 >Blog</Link>
                 <Link
                     href="/carrito"
-                    className={pathname === '/blog' ? styles.active : ''}
+                    className={pathname === '/carrito' ? styles.active : ''}
                 >
                     <Image
                         src={Carrito.src}
