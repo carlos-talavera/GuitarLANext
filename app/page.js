@@ -13,6 +13,8 @@ export const metadata = {
     title: 'GuitarLA - Inicio',
     description: 'Venta de guitarras, instrumentos, GuitarLA, blog de música',
     type: 'website',
+    url: 'https://guitar-la-next-4n63.vercel.app',
+    siteName: 'GuitarLA',
     images: [
       {
         url: 'https://charlie2code.com/wp-content/uploads/2023/07/GuitarLA_Next.png',
