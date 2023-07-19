@@ -1,0 +1,17 @@
+.contenido {
+
+    display: grid;
+    gap: 4rem;
+
+}
+
+@media (width >= 768px) {
+
+    .contenido {
+
+        grid-template-columns: repeat(2, 1fr);
+        align-items: center;
+
+    }
+
+}
