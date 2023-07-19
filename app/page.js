@@ -13,7 +13,13 @@ export const metadata = {
     title: 'GuitarLA - Inicio',
     description: 'Venta de guitarras, instrumentos, GuitarLA, blog de música',
     type: 'website',
-    image: 'https://charlie2code.com/wp-content/uploads/2023/07/GuitarLA_Next.png'
+    images: [
+      {
+        url: 'https://charlie2code.com/wp-content/uploads/2023/07/GuitarLA_Next.png',
+        width: 1350,
+        height: 650
+      }
+    ]
   }
 }
 
