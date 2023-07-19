@@ -8,7 +8,13 @@ import styles from '@/styles/grid.module.css'
 
 export const metadata = {
   title: 'GuitarLA - Inicio',
-  description: 'Venta de guitarras, instrumentos, GuitarLA, blog de música'
+  description: 'Venta de guitarras, instrumentos, GuitarLA, blog de música',
+  openGraph: {
+    title: 'GuitarLA - Inicio',
+    description: 'Venta de guitarras, instrumentos, GuitarLA, blog de música',
+    type: 'website',
+    image: 'https://charlie2code.com/wp-content/uploads/2023/07/GuitarLA_Next.webp'
+  }
 }
 
 async function Home() {
